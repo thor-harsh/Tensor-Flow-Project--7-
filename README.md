@@ -2,13 +2,12 @@
 
 <table>
   
-**In this project we'll be applying Transfer Learning to solve very famous Food Vision 101 challenge of Image Classification using 10 % percent whole 101 classes in Food 101 dataset** <br></br>
+**In this project we'll be applying Transfer Learning to solve very famous Food Vision 101 challenge of Image Classification using 10% percent whole 101 classes in Food 101 dataset** <br></br>
 
 **Let's looks into dataset:** <br></br>
 
 **About Dataset**: <br></br>
-This dataset consists of 101 food categories, with 101'000 images. For each class, 250 manually reviewed test images are provided as well as 750 training images. On purpose, the training images were not cleaned, and thus still contain some amount of noise. This comes mostly in the form of intense colors and sometimes wrong labels. All images were rescaled to have a maximum side length of 512 pixels.
-Here I will be taking 10 percent of each classes where total classes is 10 for training and for training the number of images are same as it is in the dataset.<br></br>
+This dataset consists of 101 food categories, with 101'000 images. For each class, 250 manually reviewed test images are provided as well as 750 training images. On purpose, the training images were not cleaned, and thus still contain some amount of noise. This comes mostly in the form of intense colors and sometimes wrong labels. All images were rescaled to have a maximum side length of 512 pixels. Here I will be taking 10 percent of each classes where total classes is 10 for training and for training the number of images are same as it is in the dataset.<br></br>
 
 **Before jumping to the code lets understand what is TensorFlow and What do you mean by Transfer Learning, What is Classification problem and What do we actually understand by Feature Extraction and Fine Tuned Transfer Learning?**...<br></br>
 
